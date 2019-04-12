@@ -8,9 +8,9 @@ const CONFIG = {
    */
   commands: [
     {
-      name: 'Duckduckgo',
+      name: 'Google',
       key: '*',
-      url: 'https://duckduckgo.com',
+      url: 'https://google.com',
       search: '/?q={}',
       color: '#DE5833',
     },
@@ -181,7 +181,7 @@ const CONFIG = {
   /**
    * Reverse color theme
    */
-  reversedColors: false,
+  reversedColors: true,
 
   /**
    * The delimiter between a command key and your search query. For example,
