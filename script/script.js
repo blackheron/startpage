@@ -12,7 +12,7 @@ const CONFIG = {
       key: '*',
       url: 'https://google.com',
       search: '/?q={}',
-      color: '#DE5833',
+      color: '#3338de',
     },
     {
       category: 'General',
@@ -138,7 +138,7 @@ const CONFIG = {
    * Get suggestions as you type.
    */
   suggestions: true,
-  suggestionsLimit: 4,
+  suggestionsLimit: 6,
 
   /**
    * The order and limit for each suggestion influencer. An "influencer" is
