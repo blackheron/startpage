@@ -12,7 +12,7 @@ const CONFIG = {
       key: '*',
       url: 'https://google.com',
       search: '/?q={}',
-      color: '#3338de',
+      color: '#3338DE',
     },
     {
       category: 'General',
